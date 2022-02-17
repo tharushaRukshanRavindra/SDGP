@@ -107,7 +107,7 @@ model.summary()
 
 
 # compile model
-model.complite (optimizer = "adam", loss = "mae", metrics = ["mae"])
+model.compile (optimizer = "adam", loss = "mae", metrics = ["mae"])
 
 # create a checkpoint to save best accuracy model
 ckp_path = "trained_model/model"
@@ -136,7 +136,7 @@ reduce_lr = tf.keras.callbacks.ReduceLROnPlateau(
                                         cooldown = 0,
                                         patience = 5,
                                         verbose = 1,
-                                        min_lr = le - 6
+                                        min_lr = 1e-6
 )
 
 # factor : when it is reduce next lr will be 0.9 times of current one

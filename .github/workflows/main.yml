@@ -1,2 +1,5 @@
 name: A workflow for the pipeline file
+
 on: push
+//workflow a name 
+//workflow will execute anytime code is pushed to your repository

@@ -1,2 +1,19 @@
+name: Super Linter
 
-
+on: 
+  push: 
+    branches: [ main ]
+  pull_request: 
+    branches: [ main ]
+    
+  workflow_dispatch: 
+  
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run
+        uses: actions/checkout@v2
+      
+      - name: Super-Linter
+        uses: github/super-linter@v4.9.0

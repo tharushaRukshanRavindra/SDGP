@@ -1,0 +1,19 @@
+name: Trial
+
+on: 
+
+  push: 
+    branches: [ main ]
+  pull-request: 
+    branches: [ main ]
+    
+  workflow_dispatch: 
+  
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run
+      - uses: actions/checkout@v2
+    
+    

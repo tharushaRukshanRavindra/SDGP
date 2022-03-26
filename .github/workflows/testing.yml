@@ -1,0 +1,13 @@
+name: Testing Dependancies
+on: [push]
+jobs:
+  Run-All-Tests:
+    name: "Run All Tests"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        uses: actions/checkout@v2
+        run: npm install
+        
+      - name: Run tests
+        run: npm run test

@@ -17,3 +17,9 @@ jobs:
       
       - name: Super-Linter
         uses: github/super-linter@v4.9.1
+        env:
+          ACTIONS_RUNNER_DEBUG: true
+          ERROR_ON_MISSING_EXEC_BIT: true
+          VALIDATE_ALL_CODEBASE: false
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BRANCH: main

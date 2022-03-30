@@ -1,19 +1,50 @@
+
 name: Super Linter
 
+# Controls when the workflow will run
 on: 
+
+  # Triggers the workflow on push or pull request events but only for the main branch
   push: 
     branches: [ main ]
   pull_request: 
     branches: [ main ]
     
+   # Allows you to run this workflow manually from the Actions tab  
   workflow_dispatch: 
-  
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs: 
+# This workflow contains a single job called "build"
   build:
+  
+     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    
+    # Represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Run
+    
+      - name: Checkout
+        # Checks-out the repository under $GITHUB_WORKSPACE, so the job can access it
         uses: actions/checkout@v2
       
       - name: Super-Linter
+        # Run Linter against code base
         uses: github/super-linter@v4.9.1
+        
+        env:
+        
+          # Flag to enable additional information about the linter, versions, and additional output
+          ACTIONS_RUNNER_DEBUG: true
+          
+          # If a shell script is not executable the bash-exec linter will report an error 
+          ERROR_ON_MISSING_EXEC_BIT: true
+          
+          # New or edited files will be parsed for validation
+          VALIDATE_ALL_CODEBASE: false
+          
+          
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Repository main branch
+          DEFAULT_BRANCH: main

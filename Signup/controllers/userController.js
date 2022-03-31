@@ -42,12 +42,14 @@ exports.signup = async (req, res) => {
 };
 // login 
 
+// user log in process
 exports.login = async (req, res) => {
     let { email, encryptedPassword } = req.body;
 
+    // find a user under the specific email
     User.findOne({ email }).then((foundUser) => {
         if(foundUser.email == email){
-            bcrypt.compare(encryptedPassword, foundUser.encryptedPassword, (err, response) => {
+            bcrypt.compare(encryptedPassword, foundUser.encryptedPassword, (err, response) => {         // compare hashed passwords
                 if(response == true){
                     res.status(200).send("login succesfull!");
                 }

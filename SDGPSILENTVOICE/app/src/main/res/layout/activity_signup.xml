@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sdgpmainbackground"
+    tools:context=".SignupActivity">
+
+
+    <TextView
+        android:id="@+id/textViewSignTopic"
+        android:layout_marginTop="55dp"
+        android:layout_width="wrap_content"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="@string/sign_up"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutSignup"
+        android:background="#B1CAC4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        android:orientation="vertical"
+        android:weightSum="5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSignTopic">
+
+
+        <EditText
+            android:textAlignment="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_drawable"
+            android:layout_weight="1"
+            android:id="@+id/firstName"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="20"
+            android:inputType="textPersonName"
+            android:text="@string/first_name" />
+
+        <EditText
+            android:textAlignment="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_drawable"
+            android:layout_weight="1"
+            android:id="@+id/lastName"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="20"
+            android:inputType="textPersonName"
+            android:text="@string/last_name" />
+
+        <EditText
+            android:textAlignment="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_drawable"
+            android:layout_weight="1"
+            android:id="@+id/userNameTxt"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="20"
+            android:inputType="textPersonName"
+            android:text="@string/user_name" />
+
+        <EditText
+            android:textAlignment="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_drawable"
+            android:layout_weight="1"
+            android:id="@+id/emailTxt"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="50"
+            android:inputType="textEmailAddress"
+            android:text="@string/e_mail" />
+
+        <EditText
+            android:textAlignment="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_drawable"
+            android:layout_weight="1"
+            android:id="@+id/passwordTxt"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="50"
+            android:inputType="textVisiblePassword"
+            android:text="@string/password" />
+
+
+    </LinearLayout>
+
+    <android.widget.Button
+        android:background="@drawable/btn_final"
+        android:id="@+id/submitButtonSignup"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        android:layout_marginTop="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/linearLayoutSignup" />
+</androidx.constraintlayout.widget.ConstraintLayout>

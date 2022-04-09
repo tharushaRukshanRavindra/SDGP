@@ -1,0 +1,2 @@
+com/example/sVCA8/BuildConfig.java
+ com.example.sVCA8.BuildConfig

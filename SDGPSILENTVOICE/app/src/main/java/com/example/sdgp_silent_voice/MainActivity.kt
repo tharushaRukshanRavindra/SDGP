@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val signUpBtn: Button = findViewById(R.id.signupBtn)
         val logInBtn: Button = findViewById(R.id.loginBtn)
+        val skipBtn: Button = findViewById(R.id.skipBtn)
 
 
         signUpBtn.setOnClickListener {
@@ -23,5 +24,12 @@ class MainActivity : AppCompatActivity() {
             val  i = Intent(this, LogInActivity::class.java)
             startActivity(i)
         }
+
+        skipBtn.setOnClickListener {
+            val i = Intent(this, MainActivity2::class.java)
+            startActivity(i)
+        }
+
+
     }
 }

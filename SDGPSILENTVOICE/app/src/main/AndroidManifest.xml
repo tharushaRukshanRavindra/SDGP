@@ -8,6 +8,7 @@
     <uses-permission android:name="android.permission.CAMERA"/>
 
     <application
+        android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -37,4 +38,9 @@
             android:exported="true" />
     </application>
 
+    <!-- Permissions to use INTERNET-->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- Permission to access current network -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 </manifest>

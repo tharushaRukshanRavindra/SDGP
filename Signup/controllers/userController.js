@@ -23,17 +23,17 @@ exports.signup = async (req, res) => {
     ] }).then((foundUser) => {
         if(foundUser) {
             if(foundUser.email == email) {
-                return res.status(409).send("email already exists");
+                return res.status(409).send("email_exists");
             }
             if(foundUser.userName == userName) {
-                return res.status(409).send("username already exists");
+                return res.status(409).send("username_exists");
             }
         } else {
             const NewUser = new User(user);         // create new user objcet
 
             // save created user object in the databse
             NewUser.save().then(() => {
-                return res.send("User added successfully!");
+                return res.send("user_added");
             }).catch(err => {
                 return res.send(err);
             });
@@ -48,15 +48,15 @@ exports.login = async (req, res) => {
         if(foundUser.email == email){
             bcrypt.compare(encryptedPassword, foundUser.encryptedPassword, (err, response) => {
                 if(response == true){
-                    res.status(200).send("login succesfull!");
+                    res.status(200).send("login_success");
                 }
                 else{
-                    res.status(404).send("password does not match!");
+                    res.status(404).send("password_not_match!");
                 }
             });
         }
         else{
-            res.status(404).send("email does not exists!");
+            res.status(404).send("email_not_reg");
         }
     });
 };

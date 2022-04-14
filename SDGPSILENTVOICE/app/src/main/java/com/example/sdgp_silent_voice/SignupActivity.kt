@@ -6,6 +6,8 @@ import android.util.Log
 import android.widget.Button
 import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_log_in.*
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.runBlocking
 import okhttp3.*
 import org.json.JSONObject
 import java.io.IOException
@@ -89,7 +91,12 @@ class SignupActivity : AppCompatActivity() {
                 else{
                     var newUser = "{\"firstName\": \"$fName\",\"lastName\": \"$lName\",\"userName\": \"$username\",\"email\": \"$mail\",\"encryptedPassword\": \"$password\"}";
 
-                    sendReq(newUser);                                                               // calling the method to send the request
+                    // new coroutine to send the request
+                    runBlocking {
+                        launch {
+                            sendReq(newUser);                                                       // call the method to send the reques
+                        }
+                    }
                 }
             }
         };

@@ -119,7 +119,7 @@ class MainActivity2 : AppCompatActivity() {
 
         // request camera permissions
         if (allPermissionsGranted()) {
-//            startCamera()
+            startCamera()
         } else {
             ActivityCompat.requestPermissions(
                 this, requiredPermission, requestCodePermission
@@ -137,7 +137,56 @@ class MainActivity2 : AppCompatActivity() {
             viewAdapter.submitList(it)
         }
     }
+    private fun startCamera() {
+        val cameraProviderFuture = ProcessCameraProvider.getInstance(this)
 
+        cameraProviderFuture.addListener( {
+            // Used to bind the lifecycle of cameras to the lifecycle owner
+            val cameraProvider: ProcessCameraProvider = cameraProviderFuture.get()
+
+            preview = Preview.Builder()
+                .build()
+
+            imageAnalyzer = ImageAnalysis.Builder()
+                // This sets the ideal size for the image to be analyse, CameraX will choose the
+                // the most suitable resolution which may not be exactly the same or hold the same
+                // aspect ratio
+                .setTargetResolution(Size(40, 40))
+                // How the Image Analyser should pipe in input, 1. every frame but drop no frame, or
+                // 2. go to the latest frame and may drop some frame. The default is 2.
+                // STRATEGY_KEEP_ONLY_LATEST. The following line is optional, kept here for clarity
+                .setBackpressureStrategy(ImageAnalysis.STRATEGY_KEEP_ONLY_LATEST)
+                .build()
+                .also { analysisUseCase: ImageAnalysis ->
+                    analysisUseCase.setAnalyzer(cameraExecutor, ImageAnalyzer(this) { items ->
+                        // updating the list of recognised objects
+                        recogViewModel.updateData(items)
+                    })
+                }
+
+            // Select camera, back is the default. If it is not available, choose front camera
+            val cameraSelector =
+                if (cameraProvider.hasCamera(CameraSelector.DEFAULT_BACK_CAMERA))
+                    CameraSelector.DEFAULT_BACK_CAMERA else CameraSelector.DEFAULT_FRONT_CAMERA
+
+            try {
+                // Unbind use cases before rebinding
+                cameraProvider.unbindAll()
+
+                // Bind use cases to camera - try to bind everything at once and CameraX will find
+                // the best combination.
+                camera = cameraProvider.bindToLifecycle(
+                    this, cameraSelector, preview, imageAnalyzer
+                )
+
+                // Attach the preview to preview view, aka View Finder
+                preview.setSurfaceProvider(viewFinder.surfaceProvider)
+            } catch (exc: Exception) {
+                Log.e(tag, "Use case binding failed", exc)
+            }
+
+        }, ContextCompat.getMainExecutor(this))
+    }
 
     private fun allPermissionsGranted(): Boolean = requiredPermission.all{
         ContextCompat.checkSelfPermission(
@@ -154,7 +203,7 @@ class MainActivity2 : AppCompatActivity() {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults)
         if (requestCode == requestCodePermission) {
             if (allPermissionsGranted()) {
-//                startCamera()
+               startCamera()
             } else {
                 // exit the app if permission not granted
                 Toast.makeText(

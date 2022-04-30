@@ -6,4 +6,4 @@ on:
 jobs:
   slackNotify:
 
-    runs-on: ubuntu-latest
+     runs-on: ubuntu-latest

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/svbackground"
     tools:context=".SignupActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -63,7 +64,8 @@
 
         <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="341dp">
+            android:layout_height="500dp">
+
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -135,6 +137,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="80dp"
                     android:layout_marginTop="16dp"
+                    android:layout_marginBottom="16dp"
                     android:background="@drawable/background_edittext"
                     android:drawableRight="@drawable/ic_baseline_lock_open_24"
                     android:ems="10"
@@ -148,6 +151,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="24dp"
                     android:layout_marginEnd="24dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="16dp"
                     android:background="@drawable/background_btn"
                     android:textSize="20sp"
                     android:textStyle="bold"

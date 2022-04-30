@@ -3,3 +3,7 @@ name: Notify on Slack
 on:
   pull_request:
     branches: [ master ]
+jobs:
+  slackNotify:
+
+    runs-on: ubuntu-latest

@@ -5,9 +5,8 @@ on:
     branches: [ master ]
 jobs:
   slackNotify:
-
-     runs-on: ubuntu-latest
-     steps:
-      - name: Notify slack
-        env:
-          GITHUB_ACTIONS_BOT: ${{ secrets.GITHUB_ACTIONS_BOT }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: Notify slack
+      env:
+        GITHUB_ACTIONS_BOT: ${{ secrets.GITHUB_ACTIONS_BOT }}

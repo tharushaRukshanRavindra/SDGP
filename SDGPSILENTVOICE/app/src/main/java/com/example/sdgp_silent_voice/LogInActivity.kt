@@ -47,12 +47,7 @@ class LogInActivity : AppCompatActivity() {
             else{
                 var user = "{\"email\": \"$mail\", \"encryptedPassword\": \"$password\"";
 
-                // new coroutine to send the request
-                runBlocking{
-                    launch{
-                        sendReq(user);                                                              // calling the method to send the request
-                    }
-                }
+                sendReq(user);                                                              // calling the method to send the request
             }
         };
     }

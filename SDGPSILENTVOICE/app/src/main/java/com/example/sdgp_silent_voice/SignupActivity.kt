@@ -91,12 +91,8 @@ class SignupActivity : AppCompatActivity() {
                 else{
                     var newUser = "{\"firstName\": \"$fName\",\"lastName\": \"$lName\",\"userName\": \"$username\",\"email\": \"$mail\",\"encryptedPassword\": \"$password\"}";
 
-                    // new coroutine to send the request
-                    runBlocking {
-                        launch {
-                            sendReq(newUser);                                                       // call the method to send the reques
-                        }
-                    }
+                    sendReq(newUser);                                                       // call the method to send the request
+
                 }
             }
         };
@@ -114,9 +110,9 @@ class SignupActivity : AppCompatActivity() {
 
         val request = Request.Builder()                                                             // Build request
             //.url("http://localhost:5000/api/signup")                                              // Localhost URL
-            .url("http://172.20.10.10:5000/api/signup")                                           // IP address from Charaka's mobile hotspot
+            .url("http://172.20.10.10:5000/api/signup")                                         // IP address from Charaka's mobile hotspot
             //.url("http://192.168.8.197:5000/api/signup")                                          // IP address from Charaka's home wifi
-            //.url("http://192.168.8.163:5000/api/signup")                                        // IP address from office
+            //.url("http://192.168.8.163:5000/api/signup")                                          // IP address from office
             .method("POST", req)
             .header("Content-Type", "application/json")
             .build();

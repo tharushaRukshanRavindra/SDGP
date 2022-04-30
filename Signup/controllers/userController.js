@@ -51,7 +51,7 @@ exports.login = async (req, res) => {
                     res.status(200).send("login_success");
                 }
                 else{
-                    res.status(404).send("password_not_match!");
+                    res.status(404).send("password_not_match");
                 }
             });
         }

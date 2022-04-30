@@ -1,9 +1,12 @@
 package com.example.sdgp_silent_voice
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
+import android.widget.ImageView
+import android.widget.LinearLayout
 import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_log_in.*
 import kotlinx.coroutines.launch
@@ -16,6 +19,13 @@ class SignupActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
+
+        val backBtn = findViewById<ImageView>(R.id.imageView4)
+        backBtn.setOnClickListener {
+            val intent = Intent (this, MainActivity::class.java)
+            startActivity(intent)
+        }
+
 
         // create instances from buttons and texfields
         var signupBtn = findViewById<Button>(R.id.signup_button);

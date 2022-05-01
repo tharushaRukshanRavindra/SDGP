@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3d13bb58e74bf09cd515611b21feb1e7\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a6d98ec343ab778c9059a11dd3aa5ec3\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\13821071ac043768b46b6a98c53af815\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:17:1-24:12
@@ -62,33 +62,33 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ramitha Manathun
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.camera.any
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:1-59
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:1-59
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:15-57
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:15-57
 uses-permission#android.permission.CAMERA
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:5-64
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:5-64
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:10:5-39:19
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:10:5-39:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\2423cb8b319745ac6184090ba81b120a\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -120,71 +120,71 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:17:9-53
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:17:9-53
 	android:usesCleartextTraffic
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:11:9-44
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:11:9-44
 activity#com.example.sdgp_silent_voice.MainActivity2
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:18:9-20:40
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:19:13-42
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:19:13-42
 activity#com.example.sdgp_silent_voice.LogInActivity
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:22:13-42
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:22:13-42
 activity#com.example.sdgp_silent_voice.SignupActivity
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:24:9-26:40
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:25:13-43
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:25:13-43
 activity#com.example.sdgp_silent_voice.LaunchActivity
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:27:9-35:20
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:exported
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:28:13-43
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:28:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.example.sdgp_silent_voice.MainActivity
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:36:9-38:39
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:36:9-38:39
 	android:exported
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:37:13-41
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:37:13-41
 uses-permission#android.permission.INTERNET
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:5-66
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:5-66
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:22-64
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:5-79
+ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:5-79
 	android:name
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:22-76
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:22-76
 uses-sdk
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3d13bb58e74bf09cd515611b21feb1e7\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3d13bb58e74bf09cd515611b21feb1e7\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a6d98ec343ab778c9059a11dd3aa5ec3\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
@@ -301,18 +301,18 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Ramitha Manathunga\.gradle\cac
 MERGED from [androidx.print:print:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		MERGED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		MERGED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		MERGED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		MERGED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\almostFinished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
 queries
 ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:24:5-28:15
 intent#action:name:androidx.camera.extensions.action.VENDOR_ACTION

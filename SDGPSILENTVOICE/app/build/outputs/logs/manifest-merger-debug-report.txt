@@ -1,0 +1,375 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3d13bb58e74bf09cd515611b21feb1e7\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a6d98ec343ab778c9059a11dd3aa5ec3\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\13821071ac043768b46b6a98c53af815\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a853fda617d78bf508a401c46e4a5067\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\2423cb8b319745ac6184090ba81b120a\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\64cbc4eefcaadc780d22a84dcebe0a4c\transformed\camera-view-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:3.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9cae0e7256d023ca7d58083e3cdb2eea\transformed\lottie-3.4.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\b07e2ea96ad9bd2cb8ab939ac9c3a895\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e04ba42ad92725dee8e5917c71e50250\transformed\tensorflow-lite-support-0.1.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a8d61499fa069c54974b568507ed2faf\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\25fa166d6b656905b3295e027e4ec2c5\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a91ef096e8bd7b03f08148c5976f63b7\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e6b991296e8657ffa57354321821636b\transformed\camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-video:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\d85d90492a4e91eb960ca60740a24048\transformed\camera-video-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\30f577f4749d803208629866c5b31478\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\74211f32305c36af35bc37674744c718\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\34a3296975a63672b5cd304e9050ff55\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\8b2dcb19a9efe7aeafe124d739004b99\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1f7e40814ee9fe486d95f11251c36bfd\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\35197c704cf3b195a7deacf1288bb271\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\d2b94526ddffc6b79cf6315b568e690e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a5570e1fa94c37b068a1f2c84857bdb5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9687f07566da4384dc89e16ea088dfe0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e868dff6a42eaeeb636b72fa989639b2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c0c5254ca195197b52e76ce985792209\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c4d3e86c21d0060759c2cb255a4a146b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a976b3973a19117cd60544c9e392a5a0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\8ae72c9cdbcce77d279e7b34c46f9d5b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3ea4ebd9221beca529a327239eb4504a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\52df549b8659d1033ef9792bd5b2cb11\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c274a125088e9387c4498590dbce1324\transformed\viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\cb89824e243ce9e4d21a353bedbe3431\transformed\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\dd5a6129e1a09cd09b81ecff34cdd646\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\decbdf181ae315cf8c8bd085c0fa215d\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\72f1c97ff6204af886160caebafcd1c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\6b37cecfc7dd9876670f4a69167b6081\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\05cb3fb8d7abb322c0ea6461c0facac5\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\b3607758cc09900db33f0aadc3764b6d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\beb5996562aae1c5c682e0da30cf6ef4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\f5290c9d10c7688684c7c7c818269058\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\5fd516229d7a079e079035253a28ce7e\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\89961c0cbe256c3c3478622d15a99943\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\312759f95f5b17b49b3a0d3c7068c03b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\0bc47bb8c41cf224d1e82e026f1c6eea\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\f4a0188b1d5584df4388b22dec68648e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e46c73095c8fa9976053cee1668aab2b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.any
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:1-59
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:15-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:10:5-39:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\2423cb8b319745ac6184090ba81b120a\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\2423cb8b319745ac6184090ba81b120a\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9cae0e7256d023ca7d58083e3cdb2eea\transformed\lottie-3.4.1\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9cae0e7256d023ca7d58083e3cdb2eea\transformed\lottie-3.4.1\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a91ef096e8bd7b03f08148c5976f63b7\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a91ef096e8bd7b03f08148c5976f63b7\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\30f577f4749d803208629866c5b31478\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\30f577f4749d803208629866c5b31478\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\74211f32305c36af35bc37674744c718\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\74211f32305c36af35bc37674744c718\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:17:9-53
+	android:usesCleartextTraffic
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:11:9-44
+activity#com.example.sdgp_silent_voice.MainActivity2
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:19:13-42
+activity#com.example.sdgp_silent_voice.LogInActivity
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:22:13-42
+activity#com.example.sdgp_silent_voice.SignupActivity
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:25:13-43
+activity#com.example.sdgp_silent_voice.LaunchActivity
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:28:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.sdgp_silent_voice.MainActivity
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:36:9-38:39
+	android:exported
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:37:13-41
+uses-permission#android.permission.INTERNET
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:22-76
+uses-sdk
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3d13bb58e74bf09cd515611b21feb1e7\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3d13bb58e74bf09cd515611b21feb1e7\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a6d98ec343ab778c9059a11dd3aa5ec3\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a6d98ec343ab778c9059a11dd3aa5ec3\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\13821071ac043768b46b6a98c53af815\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\13821071ac043768b46b6a98c53af815\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a853fda617d78bf508a401c46e4a5067\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a853fda617d78bf508a401c46e4a5067\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\18da4e4d9b1e0957ab9cb94c1610aaba\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\2423cb8b319745ac6184090ba81b120a\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\2423cb8b319745ac6184090ba81b120a\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\64cbc4eefcaadc780d22a84dcebe0a4c\transformed\camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\64cbc4eefcaadc780d22a84dcebe0a4c\transformed\camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.airbnb.android:lottie:3.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9cae0e7256d023ca7d58083e3cdb2eea\transformed\lottie-3.4.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9cae0e7256d023ca7d58083e3cdb2eea\transformed\lottie-3.4.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\b07e2ea96ad9bd2cb8ab939ac9c3a895\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\b07e2ea96ad9bd2cb8ab939ac9c3a895\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e04ba42ad92725dee8e5917c71e50250\transformed\tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e04ba42ad92725dee8e5917c71e50250\transformed\tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a8d61499fa069c54974b568507ed2faf\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a8d61499fa069c54974b568507ed2faf\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\25fa166d6b656905b3295e027e4ec2c5\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\25fa166d6b656905b3295e027e4ec2c5\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a91ef096e8bd7b03f08148c5976f63b7\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a91ef096e8bd7b03f08148c5976f63b7\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e6b991296e8657ffa57354321821636b\transformed\camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e6b991296e8657ffa57354321821636b\transformed\camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-video:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\d85d90492a4e91eb960ca60740a24048\transformed\camera-video-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-video:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\d85d90492a4e91eb960ca60740a24048\transformed\camera-video-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\30f577f4749d803208629866c5b31478\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\30f577f4749d803208629866c5b31478\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\74211f32305c36af35bc37674744c718\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\74211f32305c36af35bc37674744c718\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\34a3296975a63672b5cd304e9050ff55\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\34a3296975a63672b5cd304e9050ff55\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\8b2dcb19a9efe7aeafe124d739004b99\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\8b2dcb19a9efe7aeafe124d739004b99\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1f7e40814ee9fe486d95f11251c36bfd\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1f7e40814ee9fe486d95f11251c36bfd\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\35197c704cf3b195a7deacf1288bb271\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\35197c704cf3b195a7deacf1288bb271\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\d2b94526ddffc6b79cf6315b568e690e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\d2b94526ddffc6b79cf6315b568e690e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a5570e1fa94c37b068a1f2c84857bdb5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a5570e1fa94c37b068a1f2c84857bdb5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9687f07566da4384dc89e16ea088dfe0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\9687f07566da4384dc89e16ea088dfe0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e868dff6a42eaeeb636b72fa989639b2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e868dff6a42eaeeb636b72fa989639b2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c0c5254ca195197b52e76ce985792209\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c0c5254ca195197b52e76ce985792209\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c4d3e86c21d0060759c2cb255a4a146b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c4d3e86c21d0060759c2cb255a4a146b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a976b3973a19117cd60544c9e392a5a0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\a976b3973a19117cd60544c9e392a5a0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\8ae72c9cdbcce77d279e7b34c46f9d5b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\8ae72c9cdbcce77d279e7b34c46f9d5b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3ea4ebd9221beca529a327239eb4504a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\3ea4ebd9221beca529a327239eb4504a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\52df549b8659d1033ef9792bd5b2cb11\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\52df549b8659d1033ef9792bd5b2cb11\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c274a125088e9387c4498590dbce1324\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\c274a125088e9387c4498590dbce1324\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\cb89824e243ce9e4d21a353bedbe3431\transformed\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\cb89824e243ce9e4d21a353bedbe3431\transformed\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\dd5a6129e1a09cd09b81ecff34cdd646\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\dd5a6129e1a09cd09b81ecff34cdd646\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\decbdf181ae315cf8c8bd085c0fa215d\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\decbdf181ae315cf8c8bd085c0fa215d\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\72f1c97ff6204af886160caebafcd1c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\72f1c97ff6204af886160caebafcd1c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\6b37cecfc7dd9876670f4a69167b6081\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\6b37cecfc7dd9876670f4a69167b6081\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\05cb3fb8d7abb322c0ea6461c0facac5\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\05cb3fb8d7abb322c0ea6461c0facac5\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\b3607758cc09900db33f0aadc3764b6d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\b3607758cc09900db33f0aadc3764b6d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\beb5996562aae1c5c682e0da30cf6ef4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\beb5996562aae1c5c682e0da30cf6ef4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\f5290c9d10c7688684c7c7c818269058\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\f5290c9d10c7688684c7c7c818269058\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\5fd516229d7a079e079035253a28ce7e\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\5fd516229d7a079e079035253a28ce7e\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\89961c0cbe256c3c3478622d15a99943\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\89961c0cbe256c3c3478622d15a99943\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\312759f95f5b17b49b3a0d3c7068c03b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\312759f95f5b17b49b3a0d3c7068c03b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\0bc47bb8c41cf224d1e82e026f1c6eea\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\0bc47bb8c41cf224d1e82e026f1c6eea\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\f4a0188b1d5584df4388b22dec68648e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\f4a0188b1d5584df4388b22dec68648e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e46c73095c8fa9976053cee1668aab2b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e46c73095c8fa9976053cee1668aab2b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		MERGED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		MERGED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+queries
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:24:5-28:15
+intent#action:name:androidx.camera.extensions.action.VENDOR_ACTION
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:25:9-27:18
+action#androidx.camera.extensions.action.VENDOR_ACTION
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:26:13-86
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:26:21-83
+uses-library#androidx.camera.extensions.impl
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:31:9-33:40
+	android:required
+		ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:32:13-59
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\85805a6af641a70dfad1d241424adc52\transformed\camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:30:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\e5c04fe8b8280b474439ec2bb85844c7\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

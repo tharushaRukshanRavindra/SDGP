@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sdgp_silent_voice"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera.any" />
+11-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:1-59
+11-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:5:15-57
+12
+13    <!-- for camera permission -->
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:5-64
+14-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:8:22-62
+15
+16    <!-- Permissions to use INTERNET -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:5-66
+17-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:42:22-64
+18
+19    <!-- Permission to access current network -->
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:5-79
+20-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:45:22-76
+21
+22    <queries>
+22-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:24:5-28:15
+23        <intent>
+23-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:25:9-27:18
+24            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION" />
+24-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:26:13-86
+24-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:26:21-83
+25        </intent>
+26    </queries>
+27
+28    <application
+28-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:10:5-39:19
+29        android:allowBackup="true"
+29-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:12:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.7.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:13:9-43
+33        android:label="@string/app_name"
+33-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:14:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:15:9-54
+35        android:supportsRtl="true"
+35-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:16:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.SDGPSILENTVOICE"
+37-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:17:9-53
+38        android:usesCleartextTraffic="true" >
+38-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:11:9-44
+39        <activity
+39-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:18:9-20:40
+40            android:name="com.example.sdgp_silent_voice.MainActivity2"
+40-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:19:13-42
+41            android:exported="false" />
+41-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:20:13-37
+42        <activity
+42-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:21:9-23:40
+43            android:name="com.example.sdgp_silent_voice.LogInActivity"
+43-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:22:13-42
+44            android:exported="false" />
+44-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:23:13-37
+45        <activity
+45-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:24:9-26:40
+46            android:name="com.example.sdgp_silent_voice.SignupActivity"
+46-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:25:13-43
+47            android:exported="false" />
+47-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:26:13-37
+48        <activity
+48-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:27:9-35:20
+49            android:name="com.example.sdgp_silent_voice.LaunchActivity"
+49-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:28:13-43
+50            android:exported="true" >
+50-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:29:13-36
+51            <intent-filter>
+51-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:30:13-34:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:17-69
+52-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:31:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:17-77
+54-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:33:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:36:9-38:39
+58            android:name="com.example.sdgp_silent_voice.MainActivity"
+58-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:37:13-41
+59            android:exported="true" />
+59-->D:\Ramitha\projects\finished\SDGPSILENTVOICE\app\src\main\AndroidManifest.xml:38:13-36
+60
+61        <uses-library
+61-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:31:9-33:40
+62            android:name="androidx.camera.extensions.impl"
+62-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:32:13-59
+63            android:required="false" />
+63-->[androidx.camera:camera-extensions:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\549c2218710a1b778593174fc8f7619e\transformed\camera-extensions-1.1.0-beta03\AndroidManifest.xml:33:13-37
+64
+65        <service
+65-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+66            android:name="androidx.camera.core.impl.MetadataHolderService"
+66-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+67            android:enabled="false"
+67-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+68            android:exported="false" >
+68-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+69            <meta-data
+69-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+70                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+70-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+71                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+71-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\51da5cd466e87d06ae679c2fa41f94c5\transformed\camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+72        </service>
+73
+74        <provider
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+75            android:name="androidx.startup.InitializationProvider"
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+76            android:authorities="com.example.sdgp_silent_voice.androidx-startup"
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+77            android:exported="false" >
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+78            <meta-data
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+79                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+80                android:value="androidx.startup" />
+80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+81            <meta-data
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+82                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+82-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+83                android:value="androidx.startup" />
+83-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ramitha Manathunga\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+84        </provider>
+85    </application>
+86
+87</manifest>
